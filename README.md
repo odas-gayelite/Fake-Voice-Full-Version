@@ -232,3 +232,6 @@ This repository serves as the official landing page for Fake Voice. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Fake Voice today!**
+
+---
+**Last updated:** 2026-09-10 22:11:02 UTC
